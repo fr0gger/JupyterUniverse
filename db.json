@@ -1,0 +1,39 @@
+[
+    {
+      "description": "Threat Report Summarization",
+      "tags": ["LLMs", "Threat Intel"],
+      "link": "https://github.com/fr0gger/jupyter-collection/blob/main/Threat_Report_Summarization/Threat_Summarization_Few_shot_learning.ipynb",
+      "authors": ["Thomas Roccia"]
+    },
+    {
+      "description": "IOC Extractor",
+      "tags": ["IOC", "MSTICpy", "Threat Intel"],
+      "link": "https://github.com/fr0gger/jupyter-collection/blob/main/iocextractor/IOCExtractor.ipynb",
+      "authors": ["Thomas Roccia"]
+    },
+    {
+      "description": "MSTICpy VirusTotal Lookup",
+      "tags": ["MSTICpy", "VirusTotal", "Enrichment", "IOC"],
+      "link": "https://github.com/microsoft/msticpy/blob/main/docs/notebooks/VTLookupV3.ipynb",
+      "authors": ["Ian Helen","Pete Bryan"]
+    },
+    {
+      "description": "BloodHound Explore Kerberoastable Users",
+      "tags": ["Bloodhound", "Data Analysis", "Kerberoast"],
+      "link": "https://github.com/OTRF/infosec-jupyter-book/blob/master/docs/use-cases/data-analysis/02_bloodhound_explore_kerberoastable_users.ipynb",
+      "authors": ["Roberto Rodriguez"]
+    },
+    {
+      "description": "Kusto Analysis with MSTICpy",
+      "tags": ["Kusto", "MSTICpy", "Data Analysis", "Threat Hunting"],
+      "link": "https://github.com/microsoft/msticpy/blob/main/docs/notebooks/Kusto-Analysis.ipynb",
+      "authors": ["Ian Helen"]
+    },
+    {
+      "description": "Pivot function with MSTICpy",
+      "tags": ["Pivot", "MSTICpy", "Enrichment", "Threat Hunting"],
+      "link": "https://github.com/microsoft/msticpy/blob/main/docs/notebooks/PivotFunctions-Introduction.ipynb",
+      "authors": ["Ian Helen", "Pete Bryan"]
+    }
+]
+  
