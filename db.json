@@ -34,6 +34,12 @@
       "tags": ["Pivot", "MSTICpy", "Enrichment", "Threat Hunting"],
       "link": "https://github.com/microsoft/msticpy/blob/main/docs/notebooks/PivotFunctions-Introduction.ipynb",
       "authors": ["Ian Helen", "Pete Bryan"]
+    },
+    {
+      "description": "Jupyterthon 2024 MISP playbook",
+      "tags": ["misp", "playbook", "Threat Intel", "IOC"],
+      "link": "https://github.com/MISP/misp-playbooks/blob/main/misp-playbooks/Jupyterthon2024-MISP_playbooks.ipynb",
+      "authors": ["Koen Van Impe"]
     }
 ]
   
