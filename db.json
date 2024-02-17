@@ -34,6 +34,12 @@
       "tags": ["Pivot", "MSTICpy", "Enrichment", "Threat Hunting"],
       "link": "https://github.com/microsoft/msticpy/blob/main/docs/notebooks/PivotFunctions-Introduction.ipynb",
       "authors": ["Ian Helen", "Pete Bryan"]
+    },
+    {
+      "description": "Guardians of Identity: OKTA's Underworld",
+      "tags": ["OKTA", "IAM", "Threat Hunting"],
+      "link": "https://github.com/kaiiyer/okta-threat-hunting/blob/main/Guardians_of_Identity.ipynb",
+      "authors": ["Kai Iyer"]
     }
 ]
   
