@@ -36,10 +36,16 @@
       "authors": ["Ian Helen", "Pete Bryan"]
     },
     {
+      "description": "Guardians of Identity: OKTA's Underworld",
+      "tags": ["OKTA", "IAM", "Threat Hunting"],
+      "link": "https://github.com/kaiiyer/okta-threat-hunting/blob/main/Guardians_of_Identity.ipynb",
+      "authors": ["Kai Iyer"]
+    },
+    {
       "description": "Jupyterthon 2024 MISP playbook",
       "tags": ["misp", "playbook", "Threat Intel", "IOC"],
       "link": "https://github.com/MISP/misp-playbooks/blob/main/misp-playbooks/Jupyterthon2024-MISP_playbooks.ipynb",
       "authors": ["Koen Van Impe"]
-    }
+    },
 ]
   
