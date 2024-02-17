@@ -46,6 +46,6 @@
       "tags": ["misp", "playbook", "Threat Intel", "IOC", "Jupyterthon"],
       "link": "https://github.com/MISP/misp-playbooks/blob/main/misp-playbooks/Jupyterthon2024-MISP_playbooks.ipynb",
       "authors": ["Koen Van Impe"]
-    },
+    }
 ]
   
