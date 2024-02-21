@@ -46,5 +46,11 @@
       "tags": ["misp", "playbook", "Threat Intel", "IOC", "Jupyterthon"],
       "link": "https://github.com/MISP/misp-playbooks/blob/main/misp-playbooks/Jupyterthon2024-MISP_playbooks.ipynb",
       "authors": ["Koen Van Impe"]
+    },
+    {
+      "description": "I-SooN Data Leak Analysis using OCR and GenAI",
+      "tags": ["LLMs", "Threat Intel", "OCR", "I-Soon"],
+      "link": "https://github.com/fr0gger/jupyter-collection/blob/main/ISOON_DataLeak_OCR_GenAI/ISOON_ChinLeaks.ipynb",
+      "authors": ["Thomas Roccia"]
     }
 ]
