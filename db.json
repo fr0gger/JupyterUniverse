@@ -52,5 +52,11 @@
       "tags": ["LLMs", "Threat Intel", "OCR", "I-Soon"],
       "link": "https://github.com/fr0gger/jupyter-collection/blob/main/ISOON_DataLeak_OCR_GenAI/ISOON_ChinLeaks.ipynb",
       "authors": ["Thomas Roccia"]
+    },
+    {
+      "description": "",
+      "tags": ["Ransomware", "Threat Intel", "VirusTotal"],
+      "link": "https://github.com/VirusTotal/vt-py/blob/master/examples/jupyter/ransomware_report_usecases1.ipynb",
+      "authors": ["Google"]
     }
 ]
