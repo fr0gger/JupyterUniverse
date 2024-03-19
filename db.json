@@ -54,7 +54,7 @@
       "authors": ["Thomas Roccia"]
     },
     {
-      "description": "",
+      "description": "Ransomware Report Usecases1",
       "tags": ["Ransomware", "Threat Intel", "VirusTotal"],
       "link": "https://github.com/VirusTotal/vt-py/blob/master/examples/jupyter/ransomware_report_usecases1.ipynb",
       "authors": ["Google"]
