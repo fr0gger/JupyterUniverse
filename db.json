@@ -360,5 +360,124 @@
         "authors": [
             "Koen Van Impe"
         ]
-    }    
+    },
+    {
+        "description": "RAG ATT&CK",
+        "tags": [
+            "rag",
+            "llm",
+            "threat intel",
+            "ATT&CK",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/RAG_ATT%26CK/RAG_ATT%26CK.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "ELK Threat Hunting",
+        "tags": [
+            "ELK",
+            "threat hunting",
+            "malware",
+            "IOC",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/ELK_Threat_Hunting/ELK_Threat_Hunting.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "Conti Leaks Analysis",
+        "tags": [
+            "conti leaks",
+            "threat intel",
+            "leaks",
+            "ransomware",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/Conti_Leaks_Analysis/Conti_Leaks_Notebook_TR.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "Malware String Similarity",
+        "tags": [
+            "malware",
+            "threat intel",
+            "jaccard",
+            "iocs",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/strings_similarity/Strings_Extraction.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "10 Python Lib for Malware Analysis and Reverse Engineering",
+        "tags": [
+            "malware",
+            "reverse Engineering",
+            "yara",
+            "iocs",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/10_pythonlib_for_RE/10_Python_Lib_for_Re.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "Pulsedive Lookup using MSTICpy",
+        "tags": [
+            "malware",
+            "pulsedive",
+            "threat intelligence",
+            "iocs",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/pulsedive_lookup/PulsediveLookup.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "Malware Bazaar Lookup using MSTICpy",
+        "tags": [
+            "malware",
+            "malware bazaar",
+            "threat intelligence",
+            "iocs",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/mblookup/MBLookup.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "VirusTotal Domain Hunting",
+        "tags": [
+            "malware",
+            "virustotal",
+            "threat intelligence",
+            "iocs",
+            "domain",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/vt_domain_hunting/VT_Domain_hunting.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    },
+    {
+        "description": "VirusTotal Domain Hunting",
+        "tags": [
+            "malware",
+            "virustotal",
+            "threat intelligence",
+            "iocs",
+            "domain",
+        ],
+        "link": "https://github.com/fr0gger/jupyter-collection/blob/main/vt_domain_hunting/VT_Domain_hunting.ipynb",
+        "authors": [
+            "Thomas Roccia"
+        ]
+    } 
 ]
