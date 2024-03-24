@@ -367,7 +367,7 @@
             "rag",
             "llm",
             "threat intel",
-            "ATT&CK",
+            "ATT&CK"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/RAG_ATT%26CK/RAG_ATT%26CK.ipynb",
         "authors": [
@@ -380,7 +380,7 @@
             "ELK",
             "threat hunting",
             "malware",
-            "IOC",
+            "IOC"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/ELK_Threat_Hunting/ELK_Threat_Hunting.ipynb",
         "authors": [
@@ -393,7 +393,7 @@
             "conti leaks",
             "threat intel",
             "leaks",
-            "ransomware",
+            "ransomware"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/Conti_Leaks_Analysis/Conti_Leaks_Notebook_TR.ipynb",
         "authors": [
@@ -406,7 +406,7 @@
             "malware",
             "threat intel",
             "jaccard",
-            "iocs",
+            "iocs"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/strings_similarity/Strings_Extraction.ipynb",
         "authors": [
@@ -419,7 +419,7 @@
             "malware",
             "reverse Engineering",
             "yara",
-            "iocs",
+            "iocs"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/10_pythonlib_for_RE/10_Python_Lib_for_Re.ipynb",
         "authors": [
@@ -432,7 +432,7 @@
             "malware",
             "pulsedive",
             "threat intelligence",
-            "iocs",
+            "iocs"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/pulsedive_lookup/PulsediveLookup.ipynb",
         "authors": [
@@ -445,7 +445,7 @@
             "malware",
             "malware bazaar",
             "threat intelligence",
-            "iocs",
+            "iocs"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/mblookup/MBLookup.ipynb",
         "authors": [
@@ -459,7 +459,7 @@
             "virustotal",
             "threat intelligence",
             "iocs",
-            "domain",
+            "domain"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/vt_domain_hunting/VT_Domain_hunting.ipynb",
         "authors": [
@@ -473,7 +473,7 @@
             "virustotal",
             "threat intelligence",
             "iocs",
-            "domain",
+            "domain"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/vt_domain_hunting/VT_Domain_hunting.ipynb",
         "authors": [
