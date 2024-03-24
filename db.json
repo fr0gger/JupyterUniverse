@@ -431,7 +431,7 @@
         "tags": [
             "malware",
             "pulsedive",
-            "threat intelligence",
+            "Threat Intel",
             "iocs"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/pulsedive_lookup/PulsediveLookup.ipynb",
@@ -444,7 +444,7 @@
         "tags": [
             "malware",
             "malware bazaar",
-            "threat intelligence",
+            "Threat Intel",
             "iocs"
         ],
         "link": "https://github.com/fr0gger/jupyter-collection/blob/main/mblookup/MBLookup.ipynb",
@@ -457,7 +457,7 @@
         "tags": [
             "malware",
             "virustotal",
-            "threat intelligence",
+            "Threat Intel",
             "iocs",
             "domain"
         ],
@@ -471,7 +471,7 @@
         "tags": [
             "malware",
             "virustotal",
-            "threat intelligence",
+            "Threat Intel",
             "iocs",
             "domain"
         ],
