@@ -334,7 +334,7 @@
         ]
     },
     {
-        "description": "Playbook title",
+        "description": "Playbook Skeleton",
         "tags": [
             "misp",
             "playbook",
