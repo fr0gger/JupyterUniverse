@@ -54,6 +54,24 @@
       "authors": ["Google"]
     },
     {
+        "description": "Query Timesketch for threat intelligence and report sightings in MISP and Mattermost",
+        "tags": [
+            "misp",
+            "playbook",
+            "Threat Intel",
+            "IOC",
+            "timesketch",
+            "forensic",
+            "monitoring",
+            "detection",
+            "sighting"
+        ],
+        "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_timesketch_search_query_sightings.ipynb",
+        "authors": [
+            "Koen Van Impe"
+        ]
+    },
+    {
         "description": "Create a custom MISP warninglist",
         "tags": [
             "misp",
@@ -140,6 +158,24 @@
         ]
     },
     {
+        "description": "Create a MISP event from Microsoft Sentinel security incidents",
+        "tags": [
+            "misp",
+            "playbook",
+            "Threat Intel",
+            "IOC",
+            "sentinel",
+            "siem",
+            "monitoring",
+            "detection",
+            "microsoft"
+        ],
+        "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_event_from_sentinel_incidents.ipynb",
+        "authors": [
+            "Koen Van Impe"
+        ]
+    },
+    {
         "description": "Malware triage with MISP",
         "tags": [
             "misp",
@@ -208,6 +244,22 @@
             "dfir"
         ],
         "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_malware_triage_upload_sample.ipynb",
+        "authors": [
+            "Koen Van Impe"
+        ]
+    },
+    {
+        "description": "Query URL reputation",
+        "tags": [
+            "misp",
+            "playbook",
+            "Threat Intel",
+            "IOC",
+            "url",
+            "reputation",
+            "phishing"
+        ],
+        "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_query_url_reputation.ipynb",
         "authors": [
             "Koen Van Impe"
         ]
@@ -338,7 +390,7 @@
         "authors": [
             "Koen Van Impe"
         ]
-    },    
+    },
     {
         "description": "Query domain reputation",
         "tags": [
@@ -373,7 +425,25 @@
         ]
     },
     {
-        "description": "Playbook Skeleton",
+        "description": "Geolocate IP addresses and calculate distance",
+        "tags": [
+            "misp",
+            "playbook",
+            "Threat Intel",
+            "IOC",
+            "geolocation",
+            "fingerprint",
+            "geoint",
+            "mmdb",
+            "infrastructure"
+        ],
+        "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_geolocate_ip_and_calc_distance.ipynb",
+        "authors": [
+            "Koen Van Impe"
+        ]
+    },
+    {
+        "description": "Playbook title",
         "tags": [
             "misp",
             "playbook",
@@ -396,6 +466,22 @@
             "phishing"
         ],
         "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_create_or_update_a_MISP_event_with_information_from_a_phishing_incident_with_a_link.ipynb",
+        "authors": [
+            "Koen Van Impe"
+        ]
+    },
+    {
+        "description": "URL remediation",
+        "tags": [
+            "misp",
+            "playbook",
+            "Threat Intel",
+            "IOC",
+            "url",
+            "remediation",
+            "phishing"
+        ],
+        "link": "https://github.com/MISP/misp-playbooks/blob/main//misp-playbooks/pb_url_remediation.ipynb",
         "authors": [
             "Koen Van Impe"
         ]
