@@ -54,6 +54,18 @@
       "authors": ["Google"]
     },
     {
+      "description": "Multicloud Threat Hunting",
+      "tags": ["Threat Hunting","Multi Cloud"],
+      "link": "https://github.com/4R9UN/Notebooks/blob/main/Multi%20cloud%20Threat%20Hunting.ipynb",
+      "authors": ["Arjun Trivedi"]
+    },
+    {
+      "description": "IOC Hunting and Threat Analysis",
+      "tags": ["Threat Hunting","Threat Intel","Threat Analysis"],
+      "link": "https://github.com/4R9UN/Notebooks/blob/main/IOC%20Analysis.ipynb",
+      "authors": ["Arjun Trivedi"]
+    },
+    {
         "description": "Query Timesketch for threat intelligence and report sightings in MISP and Mattermost",
         "tags": [
             "misp",
