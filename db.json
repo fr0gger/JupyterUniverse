@@ -616,5 +616,17 @@
         "authors": [
             "Thomas Roccia"
         ]
-    } 
+    },
+    {
+        "description": "Automated search for exploit information across various security resources using product names, versions, or CVE IDs.",
+        "tags": [
+            "Exploit Search", 
+            "Threat Intelligence", 
+            "Vulnerability Management"
+        ],
+        "link": "https://github.com/rezaduty/QueryExploit-Notebook/blob/main/QueryExploit.ipynb",
+        "authors": [
+            "Reza Rashidi(rezaduty)"
+        ]
+    }  
 ]
