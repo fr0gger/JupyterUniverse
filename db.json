@@ -628,5 +628,19 @@
         "authors": [
             "Reza Rashidi(rezaduty)"
         ]
-    }  
+    },
+    {
+        "description": "GenAI STIX 2.1 Generator",
+        "tags": [
+            "stix",
+            "Threat Intel",
+            "iocs",
+            "LLMs",
+            "Threat Intelligence"
+        ],
+        "link": "https://github.com/format81/GenAI-STIX2.1-Generator/blob/main/GenAI_Stix2_1_Generator.ipynb",
+        "authors": [
+            "Antonio Formato"
+        ]
+    } 
 ]
